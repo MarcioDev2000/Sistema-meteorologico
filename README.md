@@ -1,4 +1,4 @@
-# Sistema de sistema meteorológico
+# Sistema de meteorológico
 ![temperature](https://github.com/MarcioDev2000/Sistema-meteorol-gico/assets/113992542/875252ee-51e3-4a55-9f60-367b92c07d74)
 
 
